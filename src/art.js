@@ -245,6 +245,13 @@
     "author_github_url": "https://github.com/KushagraJain58-cmd"
   },
   {
+    "name": "Flag of Luxembourg ",
+    "page_link": "./art/Luxembourg/index.html",
+    "art_icon": "./art/Luxembourg/icon.png",
+    "author_name": "Sunaina",
+    "author_github_url": "https://github.com/sunainaagrwal"
+  },
+  {
     "name": "Egyptian Flag",
     "page_link": "./art/MohamadElhadidy/index.html",
     "art_icon": "./art/MohamadElhadidy/icon.png",
@@ -367,6 +374,27 @@
     "name": "Flag of Thailand",
     "page_link": "./art/Sumana/index.html",
     "art_icon": "./art/Sumana/icon.png",
+    "author_name": "Sumana Mupparapu",
+    "author_github_url": "https://github.com/Sumana1008"
+  },
+  {
+    "name": "Flag of Benin",
+    "page_link": "./art/Sumana1/index.html",
+    "art_icon": "./art/Sumana1/icon.png",
+    "author_name": "Sumana Mupparapu",
+    "author_github_url": "https://github.com/Sumana1008"
+  },
+  {
+    "name": "Flag of Bulgaria",
+    "page_link": "./art/Sumana2/index.html",
+    "art_icon": "./art/Sumana2/icon.png",
+    "author_name": "Sumana Mupparapu",
+    "author_github_url": "https://github.com/Sumana1008"
+  },
+  {
+    "name": "Flag of Madagascar",
+    "page_link": "./art/Sumana3/index.html",
+    "art_icon": "./art/Sumana3/icon.png",
     "author_name": "Sumana Mupparapu",
     "author_github_url": "https://github.com/Sumana1008"
   },
